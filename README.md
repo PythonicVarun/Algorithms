@@ -11,13 +11,13 @@ Algorithms are neatly organized into separate folders by category. Each folder c
 │   ├───Binary Search
 │   │   ├───Iteration
 │   │   │       binary_search.c
-│   │   │       binary_search.exe
+│   │   │       binary_search.py
 │   │   └───Recursion
 │   │           binary_search.c
-│   │           binary_search.exe
+│   │           binary_search.py
 │   └───Linear Search
 │           linear_search.c
-│           linear_search.exe
+│           linear_search.py
 ├───Sorting
 │   ├───Bubble Sort
 │   │       bubble_sort.c
