@@ -25,11 +25,11 @@ void swap(int *a, int *b) {
  * bubble sort algorithm. If the `reverse` parameter is 0, it sorts in ascending order.
  * If `reverse` is 1, it sorts in descending order.
  *
- * Time Complexity:
- * - Worst and Average Case: O(n^2) when the array is unsorted.
- * - Best Case: O(n) when the array is already sorted (due to early exit optimization).
+ * @note Time Complexity:
+ *     - Worst and Average Case: O(n^2) when the array is unsorted.
+ *     - Best Case: O(n) when the array is already sorted (due to early exit optimization).
  *
- * Space Complexity: O(1), since the sorting is done in-place.
+ * @note Space Complexity: O(1), since the sorting is done in-place.
  * 
  * @param arr[] The array to be sorted.
  * @param n The number of elements in the array.

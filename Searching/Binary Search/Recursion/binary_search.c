@@ -10,8 +10,8 @@
  * This function uses a recursive approach to search for an element in a sorted array.
  * If the element is found, the index of the element is returned. If not, -1 is returned.
  *
- * Time Complexity: O(log n) - The search space is halved with each recursive call.
- * Space Complexity: O(log n) - Due to the recursive call stack.
+ * @note Time Complexity: O(log n) - The search space is halved with each recursive call.
+ * @note Space Complexity: O(log n) - Due to the recursive call stack.
  * 
  * @param arr[] The sorted array in which to search.
  * @param element The element to search for.

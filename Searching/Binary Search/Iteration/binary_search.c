@@ -10,8 +10,8 @@
  * This function uses an iterative approach to search for an element in a sorted array.
  * If the element is found, the index of the element is returned. If not, -1 is returned.
  *
- * Time Complexity: O(log n) - The search space is halved with each iteration.
- * Space Complexity: O(1) - Uses constant space regardless of the input size.
+ * @note Time Complexity: O(log n) - The search space is halved with each iteration.
+ * @note Space Complexity: O(1) - Uses constant space regardless of the input size.
  * 
  * @param arr[] The sorted array in which to search.
  * @param element The element to search for.

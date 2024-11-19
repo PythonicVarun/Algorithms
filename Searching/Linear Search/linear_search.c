@@ -11,8 +11,8 @@
  * the given element. If the element is found, the index of the element is returned.
  * Otherwise, the function returns -1.
  *
- * Time Complexity: O(n) - The algorithm may need to check every element in the array.
- * Space Complexity: O(1) - Uses constant space.
+ * @note Time Complexity: O(n) - The algorithm may need to check every element in the array.
+ * @note Space Complexity: O(1) - Uses constant space.
  * 
  * @param arr[] The array in which to search.
  * @param n The number of elements in the array.

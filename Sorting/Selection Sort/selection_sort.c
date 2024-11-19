@@ -25,11 +25,11 @@ void swap(int *a, int *b) {
  * selection sort algorithm. If the `reverse` parameter is 0, it sorts in ascending order.
  * If `reverse` is 1, it sorts in descending order.
  *
- * Time Complexity:
- * - O(n^2) in all cases (best, average, and worst), because the selection sort algorithm
- *   always makes n^2 comparisons, regardless of the initial order of elements.
+ * @note Time Complexity:
+ *     - O(n^2) in all cases (best, average, and worst), because the selection sort algorithm
+ *       always makes n^2 comparisons, regardless of the initial order of elements.
  * 
- * Space Complexity: O(1), as the sorting is done in-place.
+ * @note Space Complexity: O(1), as the sorting is done in-place.
  *
  * @param arr[] The array to be sorted.
  * @param n The number of elements in the array.

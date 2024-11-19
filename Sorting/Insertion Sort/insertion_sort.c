@@ -11,11 +11,11 @@
  * If the `reverse` parameter is 0, it sorts in ascending order. If `reverse` is 1,
  * it sorts in descending order.
  *
- * Time Complexity:
- * - Worst and Average Case: O(n^2), where n is the number of elements in the array.
- * - Best Case: O(n), when the array is already sorted.
+ * @note Time Complexity:
+ *     - Worst and Average Case: O(n^2), where n is the number of elements in the array.
+ *     - Best Case: O(n), when the array is already sorted.
  *
- * Space Complexity: O(1), as the sorting is done in-place.
+ * @note Space Complexity: O(1), as the sorting is done in-place.
  * 
  * @param arr[] The array to be sorted.
  * @param n The number of elements in the array.
